@@ -399,12 +399,6 @@ A: Yes! Install any Ollama model and update `.env`
 
 ---
 
-## 📄 License
-
-This project is provided as-is for legal information purposes.
-
----
-
 ## 🙏 Acknowledgments
 
 - **LangChain** - For the RAG framework
@@ -428,11 +422,4 @@ Before considering setup complete:
 - [ ] Response time is 15-30 seconds
 - [ ] Answers are clear and conversational (not robotic)
 
----
-
-**Version:** 1.0.0  
-**Last Updated:** May 13, 2026  
-**Status:** ✅ Production Ready  
-
-**Your legal RAG application is ready to use!** 🎉
 
